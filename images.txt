@@ -1,4 +1,4 @@
-nextcloud
+linuxserver/nextcloud 
 maridb
 onlyoffice
 mysql
