@@ -1,5 +1,1 @@
-linuxserver/nextcloud 
-maridb
-onlyoffice
-mysql
-nginx
+tomcat
