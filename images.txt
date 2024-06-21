@@ -1,2 +1,5 @@
-tomcat
-linuxserver/qbittorrent
+nextcloud
+maridb
+onlyoffice
+mysql
+nginx
