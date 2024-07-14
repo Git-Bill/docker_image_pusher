@@ -1,1 +1,1 @@
-tomcat
+jellyfinl/jellyfin:10.9.7
